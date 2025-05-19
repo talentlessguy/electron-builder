@@ -1,3 +1,13 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v26.0.15...v) (2025-05-19)
+
+
+### Bug Fixes
+
+* **dmg:** `--force` unmount dmg using hdiutil after delay on Resource Lock (code 16) ([#9115](https://github.com/electron-userland/electron-builder/issues/9115)) ([9358b00](https://github.com/electron-userland/electron-builder/commit/9358b00b3985dd65a2c89b65a4c097653e9aebb2))
+* **docs:** Update README.md emoji rendering ([#9110](https://github.com/electron-userland/electron-builder/issues/9110)) ([b87b158](https://github.com/electron-userland/electron-builder/commit/b87b158c12d3a096e8e7b4883438a277633ca3c7))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v26.0.14...v) (2025-05-04)
 
 

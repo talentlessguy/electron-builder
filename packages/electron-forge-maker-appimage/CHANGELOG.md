@@ -1,5 +1,12 @@
 # electron-forge-maker-appimage
 
+## 26.0.16
+
+### Patch Changes
+
+- Updated dependencies []:
+  - app-builder-lib@26.0.16
+
 ## 26.0.15
 
 ### Patch Changes
